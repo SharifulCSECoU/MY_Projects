@@ -1,5 +1,7 @@
 /*
-    Write C++ code in object oriented approach for the students. Students can be rewarded from the department if he gets good GPA in a semester and solved at least 100 ACM problems in the last year. Department will publish the top 5 students name in their honor board. As a student of CSE, write OOP code for the project.
+    Write C++ code in object oriented approach for the students. Students can be rewarded from the department if he gets good GPA in a
+    semester and solved at least 100 ACM problems in the last year. Department will publish the top 5 students name in their honor
+    board. As a student of CSE, write OOP code for the project.
 */
 
 /*
@@ -113,6 +115,6 @@ int main()
             if(counter==5) break;
         }
     }
-    
+
     return 0;
 }
